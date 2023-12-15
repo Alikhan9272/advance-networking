@@ -1,0 +1,10 @@
+<HTML><BODY><FONT FACE = "Arial,Helvetica,sans-serif" COLOR = "#000000" SIZE = "12">This disc contains samples from Pearson IT Certification titles and products. Click on the links below to open the associated PDF in a new window.
+<FONT COLOR = "#0000FF"><a href = "PDFs/Net_Essentials_Sample_0789749033.pdf" target = "newWindow"><i>Networking Essentials, Third Edition</i> (ISBN: 9780789749031)</a></FONT>
+     Chapter 3: Physical Layer Cabling: Fiber Optics
+<FONT COLOR = "#0000FF"><a href = "PDFs/NetworkPlus_CertGuide.pdf" target = "newWindow"><i>CompTIA Network+ N10-005 Authorized Cert Guide</i> (ISBN: 9780789748218)</a></FONT>
+     Section 8: Connecting Wirelessly
+<FONT COLOR = "#0000FF"><a href = "PDFs/9781587204258_ch02.pdf" target = "newWindow"><i>CCENT/CCNA ICND1 640-822 Official Cert Guide, Third Edition</i> (ISBN: 9781587204258)</a></FONT>
+     Chapter 2: The TCP/IP and OSI Networking Models
+<FONT COLOR = "#0000FF"><a href = "PDFs/9781587204357_ch05.pdf" target = "newWindow"><i>CCNA ICND2 640-816 Official Cert Guide, Third Edition</i> (ISBN: 9781587204357)</a></FONT>
+     Chapter 5: Variable Length Subnet Masks
+</FONT></BODY></HTML>

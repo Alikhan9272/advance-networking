@@ -1,0 +1,4 @@
+<HTML><BODY><FONT FACE = "Arial,Helvetica,sans-serif" COLOR = "#000000" SIZE = "12">This DVD contains appendixes from the <i>CompTIA Network+ N10-005 Authorized Cert Guide</i>. Click on the links below to open the associated PDF in a new window.<FONT COLOR = "#0000FF">
+<a href = "PDFs/17_9780789748218_appc.pdf" target = "newWindow">Appendix C: Memory Tables</a>
+<a href = "PDFs/18_9780789748218_appd.pdf" target = "newWindow">Appendix D: Memory Table Answer Key</a>
+</FONT></BODY></HTML>
